@@ -2,7 +2,7 @@ import React from 'react';
 import SEPractices from "../dummydata/SEPractices"
 
   const optionItems = SEPractices.map((SEPractice) =>
-                <option value="">Select an SE Practice </option>
+                <option value="">Testing </option>
             );
   const Dropdown = () => {
     return (
